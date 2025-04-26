@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is B and C
+=======
+This is B
+>>>>>>> car
